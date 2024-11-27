@@ -28,4 +28,4 @@ No installation is required
   Colorama: pip3 install colorama
   SSL Strip: sudo apt install sslstrip -y
 
-## Run Script using the format: "sudo python3 ./sniff.py -i <network interface>"
+## Run Script using the format: "sudo python3 ./sniff.py -i <network_interface>"
