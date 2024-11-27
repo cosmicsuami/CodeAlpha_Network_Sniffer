@@ -22,10 +22,10 @@ No installation is required
 
 ## Setup
 ### Install Dependencies:
-  Python (If python is below 3.8): sudo apt install python3 python3-pip -y
-  Git: sudo apt install git -y
-  Scapy: pip3 install scapy
-  Colorama: pip3 install colorama
-  SSL Strip: sudo apt install sslstrip -y
+  - Python (If python is below 3.8): sudo apt install python3 python3-pip -y
+  - Git: sudo apt install git -y
+  - Scapy: pip3 install scapy
+  - Colorama: pip3 install colorama
+  - SSL Strip: sudo apt install sslstrip -y
 
 ## Run Script using the format: "sudo python3 ./sniff.py -i <network_interface>"
