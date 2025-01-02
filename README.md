@@ -1,7 +1,7 @@
-# CodeAlpha_Network_Sniffer
+# Network_Sniffer
 
 ## Overview
-Python-based network sniffer developed during the Code Alpha internship program. Monitors and analyzes network traffic in real time, providing insights into data flow and packet details.
+Python-based network sniffer that monitors and analyzes network traffic in real time, providing insights into data flow and packet details.
 
 ## Features
 - Packet Capturing and Analysis
